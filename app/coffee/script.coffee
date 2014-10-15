@@ -1,2 +1,2 @@
 welcome = document.getElementById('welcome')
-welcome.innerHTML = "We are gulping coffeescript"
+welcome.innerHTML = "Yes they are! :-)"

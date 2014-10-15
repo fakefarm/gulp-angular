@@ -17,14 +17,18 @@ CD to the root directory and run
 Npm install refers to the package.json file which is similar to `Gemfile` that lists the depenedencies we need.
 
 ### Step 3: Compile assets
-Since we don't have the asset pipeline we're going to compile the assets using a tool called Gulp. Gulp is a build tool that does many things. I like to think of it like `rake`.
+Since we don't have the asset pipeline we're going to compile the assets using a tool called [Gulp](http://gulpjs.com/). Gulp is a build tool that does many things. I like to think of it like `rake`.
 
-Gulp was installed from package.json so all you need to do is type
+Gulp was installed from package.json. If you open `src/index.html` you will see the page works, but the assets haven't been ported over yet.
+
+To port assets over, type;
 
     $ gulp
 
+_TODO - add live reload._
+
 ### Bower
-Bower is also like `Gemfile` but focusing on assets.
+[Bower](http://bower.io/) is also like `Gemfile` for frontend assets. We're going to use it to add AngularJs
 
     bower install angular
 
