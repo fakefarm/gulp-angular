@@ -1,11 +1,11 @@
 {
-  "name": "gulp your coffee",
+  "name": "gulp_coffee",
   "version": "0.0.1",
   "description": "A project to give back",
   "devDependencies": {
     "gulp-util": "^2.2.14",
     "bower": "^1.3.12",
-    "gulp": "^3.6.2",
+    "gulp": "^3.8.8",
     "gulp-coffee": "^1.4.1",
     "gulp-concat": "^2.2.0",
     "gulp-ruby-sass": "^0.4.3",
