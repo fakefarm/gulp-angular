@@ -1,0 +1,19 @@
+{
+  "name": "gulp your coffee",
+  "version": "0.0.1",
+  "description": "A project to give back",
+  "devDependencies": {
+    "gulp-util": "^2.2.14",
+    "bower": "^1.3.12",
+    "gulp": "^3.6.2",
+    "gulp-coffee": "^1.4.1",
+    "gulp-concat": "^2.2.0",
+    "gulp-ruby-sass": "^0.4.3",
+    "gulp-uglify": "^0.2.1",
+    "gulp-livereload": "^1.3.1",
+    "tiny-lr": "^0.0.5",
+    "gulp-watch": "^0.5.4",
+    "require-dir": "^0.1.0",
+    "gulp-sass": "^0.7.1"
+  }
+}
